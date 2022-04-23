@@ -1,0 +1,24 @@
+{
+  "name": "rplace",
+  "version": "1.0.0",
+  "description": "Site avec le système de la Pixel War",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WolfyzDev/rplace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WolfyzDev/rplace/issues"
+  },
+  "homepage": "https://github.com/WolfyzDev/rplace#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  }
+}
