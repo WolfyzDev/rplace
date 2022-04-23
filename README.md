@@ -20,3 +20,4 @@ Site avec le système de la Pixel War
 | v.1.2   | Génération de PixelData (back)                                                   |
 | v.1.3   | Création 'public' (front) et écoute de l'event grille (front)                    |
 | v.1.4   | Correctifs et améliorations mineurs et add génération de couleur random au début | 
+| v.1.5   | Outils GH et ajout favicon                                                       |
