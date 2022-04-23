@@ -1,3 +1,5 @@
+// Suavegarde à l'étape 3 de 'index.js'
+
 import express from 'express';
 import http from 'http';
 import { Server } from 'socket.io';

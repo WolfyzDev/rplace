@@ -1,0 +1,6 @@
+@import url('https://unpkg.com/reset-css@5.0.1/reset.css');
+
+*{
+    margin: 0;
+    padding: 0;
+}

@@ -1,3 +1,4 @@
+// Sauvegarde 2
 // Génération de la table des pixels data (tableau) - Sauvegarde #1
 
 // Fichier 'src/generatePixelData.js'
@@ -24,8 +25,10 @@ const generatePixelData = ({
 export default generatePixelData
 
 // Partie ajoutée dans index.js
+// importation supplémentaire
 import generatePixelData from './src/generatePixelData.js';
 
+// Game settingd
 const pixelData = generatePixelData({
     // Taille donnée pour les tests. A retirer à la fin pour prise auto. 600 X 900
     pixelSize: 50,
