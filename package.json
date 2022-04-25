@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/WolfyzDev/rplace#readme",
   "dependencies": {
+    "@airbrake/browser": "^2.1.7",
     "express": "^4.17.3",
     "log4js": "^6.4.5",
     "socket.io": "^4.4.1"
