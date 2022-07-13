@@ -66,7 +66,7 @@ with:
   cache-dependency-path: # optional
     
   - name: Cache
-  uses: actions/cache@v3.0.4
+  uses: actions/cache@v3.0.5
   with:
     # A list of files, directories, and wildcard patterns to cache and restore
     path: 
